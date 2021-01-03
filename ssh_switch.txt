@@ -1,0 +1,23 @@
+conf t
+!
+username admin pri 15 secret cisco123
+!
+hostname SW-1
+!
+int vlan 1
+ ip add 192.168.52.9 255.255.255.0
+ no sh
+!
+line vty 0 4
+ login local
+ transport input ssh
+!
+enable secret cisco123
+enable password cisco
+ip domain-name test.com
+crypto key generate rsa modulus 1024
+!
+end
+!
+wr
+
