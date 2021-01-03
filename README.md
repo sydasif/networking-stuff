@@ -1,1 +1,1 @@
-# config-templet
+My configuration file for networking
