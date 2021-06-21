@@ -1,7 +1,4 @@
-# Linux Cammands
-
-to remove dir ---> rm -rf <file>
-to remove empty dir ---> rmdir <file>
+# Linux Networking Cammands
 
 **To show the IP address assigned to an interface**
 
