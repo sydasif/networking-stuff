@@ -1,4 +1,4 @@
-# Linux Networking Cammands
+# Linux Networking Commands
 
 **To show the IP address assigned to an interface**
 

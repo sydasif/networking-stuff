@@ -1,4 +1,4 @@
-## Basic Configuration
+# Basic Configuration
 
 ```cisco
 conf t
@@ -34,4 +34,3 @@ end
 !
 wr
 ```
-
