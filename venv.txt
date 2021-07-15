@@ -1,0 +1,19 @@
+How to install virtualenv on win 10
+
+Create a folder name venv and open the folder
+Click in at empty space inside the folder
+Press shit+right button of mouse a pop window will open
+Click on open powershell window here, powershell will open
+Install virtualenv with pip install virtualenv command
+Create a folder wtih virtualenv syd
+Activate with .\syd\Scripts\activate
+if not activated open powershell from start menu with admin 
+Enter Set-ExecutionPolicy RemoteSigned and close
+Again Activate with .\syd\Scripts\activate now its work
+To shut with deactivate
+Now install some python module
+To made requirments.txt file with pip freeze > requirments.txt
+
+Now you can send this text file to any other computer,
+who will install this virtualenv on its PC.
+
