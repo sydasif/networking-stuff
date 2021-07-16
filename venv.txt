@@ -17,3 +17,5 @@ To made requirments.txt file with pip freeze > requirments.txt
 Now you can send this text file to any other computer,
 who will install this virtualenv on its PC.
 
+https://youtu.be/oBZX-vZ72Aw
+
