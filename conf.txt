@@ -1,0 +1,28 @@
+vtp mode transparent
+spanning-tree mode rapid-pvst
+ip name-server 209.150.154.1
+
+clock timezone PST +5
+
+vlan 100
+ name Tech
+vlan 102
+ name Admin
+
+ip default-gateway 192.168.182.2
+ip route 0.0.0.0 0.0.0.0 192.168.182.2
+
+interface vlan 1
+ description Management_Vlan
+ 
+
+interface rang gig 2/0 - 3
+ switchport mode access
+ switchport access vlan 100
+ switchport port-sec maximum 1
+ switchport port-sec
+ switchport port-sec aging time 2
+ switchport port-sec violation sh
+
+end
+wr
