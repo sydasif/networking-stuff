@@ -1,0 +1,24 @@
+#### vim text editor beginners guide ####
+
+## Installation on linux (Ubuntu)
+sudo apt install vim-nox (nox support more programming laguage)
+
+1. Open bash(shell) and write vim, it will open the text editor (now you are in command mode).
+2. To insert text, press 'i' (now you are in insert mode).
+3. To save your text, exit from insert mode, press 'esc' key (now you are in command mode).
+4. Now save your text with ':w' follwed by a file name.
+5. To quit the text editor use ':q' in command mode without saving the text.
+6. Using shift+A will enter in insert mode but at the end of line at curser current position.
+7. To save and quit use ':wq'
+8. To use previous command use ':' and up or down keys.
+9. To undo press 'u'
+10. To delete a character at curser current position press 'x'.
+11. To delet a whole line at curser position press 'dd' quickly.
+12. To copy content of from other file in the same directory:
+write in command mode ':r <file name> will copy all content to your file.
+13. To move up, down, left or right use 'h', 'j', 'k', 'l' in command mode.
+14. To move up, down, left or right in insert mode use arrow keys.
+15. To suspend the vim to the background, press ctrl+z in command mode will suspended the text editor and you
+will jump to your shell. To activate your vim after doing some jobs in your shell press fg (foreground) in you linux shell will open as it is.
+16. To use linux command while your text editor are also open, press ':! <linux cmd>'.
+17. To navigate multiple files at time use ':e <file name>, will open another file. use ':bp or :bn' to switch between files.
