@@ -6,8 +6,6 @@ conf t
 username admin pri 15 secret cisco
 enable secret cisco
 !
-no ip domain-lookup
-!
 line con 0
  password cisco
  exec-timeout 0 0
@@ -27,6 +25,7 @@ end
 ```cisco
 conf t
 !
+no ip domain-lookup
 ip domain-name lab.com
 crypto key generate rsa modulus 2048
 !
