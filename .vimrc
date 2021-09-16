@@ -17,4 +17,4 @@ set shell=powershell  " Use powershell (windows)
 
 
 colorscheme zellner   " Set nice looking colorscheme
-set statusline=%F%m%r%h%w%=(%{&ff}/%Y)\ (line\ %l\/%L,\ col\ %c)\
+set statusline=%F%m%r%h%w%=(%Y)\ (line\ %l\/%L)
