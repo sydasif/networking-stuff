@@ -1,5 +1,4 @@
 syntax on             " Enable syntax highlighting
-set spell             " Spell checking
 set number            " Enable line numbers
 
 set expandtab         " On pressing tab, insert 4 spaces
@@ -12,9 +11,10 @@ set nobackup          " Disable backup files
 set wildmenu          " Display command line's tab complete options as a menu.
 set noswapfile        " Disable swap file
 set noundofile        " Disable undofile
-set laststatus=2      " Show status line
-set shell=powershell  " Use powershell (windows)
+colorscheme torte
 
+" PYTHON SETTING 
+autocmd FileType python setlocal ts=4 sts=4 sw=4 expandtab number autoindent
 
-colorscheme zellner   " Set nice looking colorscheme
-set statusline=%F%m%r%h%w%=(%Y)\ (line\ %l\/%L)
+"YAML SETTING
+autocmd FileType yaml setlocal ts=2 sts=2 sw=2 expandtab autoindent
