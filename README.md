@@ -6,6 +6,8 @@
 
 ## Ansible
 
+![Ansible](https://github.com/sydasif/networking-stuff/blob/master/ansible/ansible-arch.png)
+
 ## Linux
 
 ## Cisco
