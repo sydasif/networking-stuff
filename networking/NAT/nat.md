@@ -17,3 +17,13 @@ Network Address Translation (NAT) is designed for IP address conservation. It en
 * Not very efficient, used when neccessary
  
 ![Dynamic NAT](https://github.com/sydasif/networking-stuff/blob/master/networking/NAT/dynamic-nat.png)
+
+## PAT / NAT Overload
+
+* Multiple Private IP Address into single public IP Address
+* Type of dynamic NAT
+* Use port numbers
+* Common type of NAT
+* Used by ISP's
+
+![PAT / NAT](https://github.com/sydasif/networking-stuff/blob/master/networking/NAT/pat-nat.png)
