@@ -26,4 +26,4 @@
 
 ## [Git & GitHub](https://github.com/sydasif/git_course)
 
-## Markdown
+## [Markdown](https://github.com/sydasif/networking-stuff/blob/master/misc/markdown-cheat-sheet.md)
