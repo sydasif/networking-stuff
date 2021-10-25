@@ -8,15 +8,15 @@
 
 [Network Address Translation](https://github.com/sydasif/networking-stuff/blob/master/networking/NAT/nat.md)
 
+### [Python for Network Automation](https://github.com/sydasif/network-automation)
+
 ## Ansible
 
 ## Linux
 
+### [Linux for Networking](https://github.com/sydasif/linux-lab)
+
 ## Cisco
-
-## Python for Network Automation
-
-[Python automation](https://github.com/sydasif/network-automation)
 
 ## GitHub
 
