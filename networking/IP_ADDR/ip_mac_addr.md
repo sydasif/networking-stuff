@@ -10,6 +10,14 @@ Divided into 4 octet
 
 Each octet has 8-Bit
 
+### Public IPv4 Addressing
+
+Class A 1.0.0.0 - 9.255.255.255 & 11.0.0.0 - 126.255.255.255
+
+Class B 128.0.0.0 - 172.15.255.255 & 172.32.0.0 - 191.255.255.255
+
+Class C 192.0.0.0 - 192.167.255.255 & 192.169.0.0 - 223.255.255.255
+
 ### Private IPv4 Addressing
 
 Class A 10.0.0.0 - 10.255.255.255.255
