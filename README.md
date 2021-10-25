@@ -18,6 +18,6 @@
 
 ## Cisco
 
-## [GitHub](https://github.com/sydasif/git_course)
+## [Git & GitHub](https://github.com/sydasif/git_course)
 
 ## Markdown
