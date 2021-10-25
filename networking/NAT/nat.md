@@ -14,5 +14,6 @@ Network Address Translation (NAT) is designed for IP address conservation. It en
 
 * A group of Private IP Address into Public IP Address
 * Usefull when two companies are merged with same internal IP Adressing
+* Not very efficient, used when neccessary
  
 ![Dynamic NAT](https://github.com/sydasif/networking-stuff/blob/master/networking/NAT/dynamic-nat.png)
