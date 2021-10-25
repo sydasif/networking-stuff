@@ -12,6 +12,10 @@
 
 ## Ansible
 
+[Ansible Client and Server](https://github.com/sydasif/ansible-lab-tut)
+
+[Ansible for Network](https://github.com/sydasif/ansible_cisco_lab)
+
 ## Linux
 
 ### [Linux for Networking](https://github.com/sydasif/linux-lab)
