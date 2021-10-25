@@ -16,6 +16,8 @@
 
 [Ansible for Network](https://github.com/sydasif/ansible_cisco_lab)
 
+![Ansible](https://github.com/sydasif/networking-stuff/blob/master/ansible/ansible-arch.png)
+
 ## Linux
 
 ### [Linux for Networking](https://github.com/sydasif/linux-lab)
