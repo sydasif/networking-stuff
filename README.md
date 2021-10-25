@@ -1,5 +1,7 @@
 # Networking Guide
 
+![Network](https://github.com/sydasif/networking-stuff/blob/master/networking/CBT%20Lab.png)
+
 ## Networking
 
 [OSI Model](https://github.com/sydasif/networking-stuff/blob/master/networking/OSI_MODEL/osi_model.md)
