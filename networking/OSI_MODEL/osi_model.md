@@ -20,4 +20,4 @@ Network | Packets | IP and Routing
 Transport | Segment / Datagrams | TCP / UDP
 5 - 7 | Data | Information / Translation / Handling
 
-![OSI Model](https://github.com/sydasif/my_memo/blob/master/networking/OSI%2BModel%2BChart.png)
+![OSI Model](https://github.com/sydasif/networking-stuff/blob/master/networking/OSI_MODEL/OSI%2BModel%2BChart.png)
