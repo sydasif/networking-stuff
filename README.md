@@ -14,6 +14,10 @@
 
 ## Cisco
 
+## Python for Network Automation
+
+[Python automation](https://github.com/sydasif/network-automation)
+
 ## GitHub
 
 ## Markdown
