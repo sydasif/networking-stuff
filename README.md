@@ -14,7 +14,7 @@
 
 ## Ansible
 
-[Ansible Client and Server](https://github.com/sydasif/ansible-lab-tut)
+[Ansible Client and Server](https://github.com/sydasif/ansible-lab-one/blob/master/README.md)
 
 [Ansible for Network](https://github.com/sydasif/ansible_cisco_lab)
 
