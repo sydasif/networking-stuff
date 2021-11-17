@@ -16,7 +16,7 @@
 
 [Ansible Client and Server](https://github.com/sydasif/ansible-lab-one/blob/master/README.md)
 
-[Ansible for Network](https://github.com/sydasif/ansible_cisco_lab)
+[Ansible for Networking](https://github.com/sydasif/ansible_cisco_lab/blob/master/README.md)
 
 ![Ansible](https://github.com/sydasif/networking-stuff/blob/master/learn_ansible/ansible-arch.png)
 
