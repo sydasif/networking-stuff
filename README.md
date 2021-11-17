@@ -10,7 +10,7 @@
 
 [Network Address Translation](https://github.com/sydasif/networking-stuff/blob/master/learn_networking/NAT/nat.md)
 
-### [Python for Network Automation](https://github.com/sydasif/network-automation)
+### [Python for Network Automation](https://github.com/sydasif/network-automation/blob/master/README.md)
 
 ## Ansible
 
