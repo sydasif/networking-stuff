@@ -22,10 +22,10 @@
 
 ## Linux
 
-### [Linux for Networking](https://github.com/sydasif/linux-lab)
+### [Linux for Networking](https://github.com/sydasif/linux-lab/blob/master/README.md)
 
 ## Cisco
 
-## [Git & GitHub](https://github.com/sydasif/git_course)
+## [Git & GitHub](https://github.com/sydasif/git_course/blob/master/README.md)
 
 ## [Markdown](https://github.com/sydasif/networking-stuff/blob/master/misc/markdown-cheat-sheet.md)
