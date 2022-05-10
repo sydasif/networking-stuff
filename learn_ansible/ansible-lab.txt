@@ -1,0 +1,27 @@
+enable
+!
+conf terminal
+!
+hostname SW-1
+!
+ip domain-name tech.com
+!
+crypto key generate rsa modulus 1024
+!
+username admin password cisco
+!
+username admin pri 15
+!
+line vty 0 4
+ transport input ssh
+ login local
+!
+interface vlan 1
+ no shutdown
+ ip address 192.168.1.1 255.255.255.0
+!
+exit
+!
+end
+!
+wr
