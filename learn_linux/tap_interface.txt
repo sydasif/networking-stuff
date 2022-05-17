@@ -1,0 +1,20 @@
+On the host crate a tap interface (tap0 layer2 interface), assign an IP address, and bring it up:
+
+tunctl
+ip addr add 192.168.1.11/24 dev tap0
+ip link set dev tap0 up
+ip route add 192.168.1.0/24 dev tap0
+
+
+# loopback interface
+user@admin-desktop:~$ sudo –i
+root@ admin-desktop:~#apt-get install uml-utilities
+root@ admin-desktop:~#modprobe tun
+root@ admin-desktop:~#tunctl             This will create loopback interface tap0
+root@ admin-desktop:~#ifconfig tap0 10.100.100.100 netmask 255.255.255.0 up
+root@ admin-desktop:~#ifconfig            verify that tap0 is up and given ip is assigned.
+
+
+If you want to add one more loopback interface
+root@ admin-desktop:~#tunctl             This will create loopback interface tap1
+root@ admin-desktop:~#ifconfig tap1 10.100.101.100 netmask 255.255.255.0 up
