@@ -2,6 +2,8 @@
 
 $ git config --global user.name "username"
 $ git config --global user.email "user@gmail.com"
+$ git config --global core.editor "vim"
+
 $ git config --list    # To see Git settings
 
 # Git Commands
