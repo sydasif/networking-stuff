@@ -1,0 +1,16 @@
+
+# How to install python3 virtual env
+
+sudo apt install python3-venv
+
+# make directory and cd to that directory and create
+
+python3 -m venv venv
+
+# Active your virtual environment:
+
+source venv/bin/activate
+
+# To deactivate:
+
+deactivate
