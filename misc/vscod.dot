@@ -1,0 +1,40 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "git.confirmSync": false,
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.sideBar.location": "right",
+    "workbench.editorAssociations": {
+    },
+    
+    "python.showStartPage": false,
+    "cSpell.userWords": [
+
+        "centos",
+        "netmiko",
+        "paramiko",
+        "pexpect",
+        "telnetlib"
+    ],
+    "notebook.lineNumbers": "on",
+    "explorer.confirmDelete": false,
+    "redhat.telemetry.enabled": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "material-icon-theme",
+    "git.enableSmartCommit": true,
+    "explorer.confirmDragAndDrop": false,
+    "timeline.excludeSources": [],
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "git.autofetch": true,
+    "terminal.integrated.fontFamily": "monospace, Consolas, 'Courier New'",
+    "terminal.integrated.fontSize": 14,
+    "editor.wordWrap": "on",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "settingsSync.ignoredSettings": [
+        "editor.fontFamily"
+    ],
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.editor.untitled.hint": "hidden"
+}
