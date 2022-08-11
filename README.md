@@ -9,3 +9,5 @@
 [Ansible for Networking](https://github.com/sydasif/ansible_cisco_lab/blob/master/README.md)
 
 [Linux for Networking](https://github.com/sydasif/linux-lab/blob/master/README.md)
+
+[My Blog](https://sydasif.github.io/)
