@@ -1,0 +1,16 @@
+Scroll Page Up/Down: ctrl + arrows
+Run Code Console: ctrl + b or F7
+Close Run Code Console: Esc
+Full Screen and Close: F11
+Multiple Selection: ctrl + click
+Multiple Change: alt + F3
+Next Match: ctrl + d
+Switch Open Tabs: ctrl + shift
+Close Tabs: ctrl + w
+Open Previous Tabs: ctrl + shif + t
+Spell Checking: F6
+Open tab by side: alt + shift + 2
+Close Side tab: alt + shift + 1
+Move Row Up and Down: ctrl + shift + arrows
+Close File Tree: ctrl + k + b
+Commit line: ctrl + /
