@@ -1,40 +1,89 @@
 {
-    "workbench.startupEditor": "newUntitledFile",
-    "git.confirmSync": false,
-    "editor.fontLigatures": true,
-    "editor.minimap.enabled": false,
-    "breadcrumbs.enabled": false,
-    "workbench.sideBar.location": "right",
-    "workbench.editorAssociations": {
-    },
-    
-    "python.showStartPage": false,
-    "cSpell.userWords": [
+  "workbench.colorTheme": "Predawn",
+  "editor.fontSize": 14,
+  "editor.fontFamily": "Source Code Pro",
+  "debug.console.fontFamily": "Source Code Pro",
+  "window.zoomLevel": 0,
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true,
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "editor.minimap.enabled": false,
+  "editor.quickSuggestionsDelay": 100,
+  "workbench.settings.openDefaultSettings": true,
+  "workbench.settings.editor": "json",
+  "workbench.startupEditor": "newUntitledFile",
 
-        "centos",
-        "netmiko",
-        "paramiko",
-        "pexpect",
-        "telnetlib"
-    ],
-    "notebook.lineNumbers": "on",
-    "explorer.confirmDelete": false,
-    "redhat.telemetry.enabled": false,
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "workbench.iconTheme": "material-icon-theme",
-    "git.enableSmartCommit": true,
-    "explorer.confirmDragAndDrop": false,
-    "timeline.excludeSources": [],
-    "python.defaultInterpreterPath": "/usr/bin/python3",
-    "git.autofetch": true,
-    "terminal.integrated.fontFamily": "monospace, Consolas, 'Courier New'",
-    "terminal.integrated.fontSize": 14,
-    "editor.wordWrap": "on",
-    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
-    "settingsSync.ignoredSettings": [
-        "editor.fontFamily"
-    ],
-    "workbench.colorTheme": "One Dark Pro",
-    "workbench.editor.untitled.hint": "hidden"
+  // "python.languageServer": "Pylance",
+  "notebook.lineNumbers": "on",
+  "explorer.confirmDelete": false,
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "editor.wordWrap": "on",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "workbench.editor.untitled.hint": "hidden",
+  "security.workspace.trust.untrustedFiles": "open",
+  "debug.terminal.clearBeforeReusing": true,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "underline",
+  "editor.cursorWidth": 2,
+  "files.autoGuessEncoding": true,
+
+  // Editor Color Customization
+  "editor.tokenColorCustomizations": {
+    // Comments Color in editor
+    "comments": "#b83f45"
+  },
+
+  "workbench.editor.autoLockGroups": {
+    "mainThreadWebview-markdown.preview": true
+  },
+
+  "scm.defaultViewMode": "tree",
+  "extensions.autoUpdate": "onlyEnabledExtensions",
+  "workbench.activityBar.visible": true,
+  "workbench.sideBar.location": "right",
+
+  "breadcrumbs.enabled": false,
+  "git.confirmSync": false,
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "explorer.confirmDragAndDrop": false,
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "files.associations": {
+    "*.yml": "ansible"
+  },
+  "[ansible]": {
+    "editor.detectIndentation": true,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.quickSuggestions": {
+      "comments": true,
+      "other": true,
+      "strings": true
+    }
+  },
+
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.unicodeHighlight.allowedLocales": {
+    "es": true,
+    "cs": true
+  },
+
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.guides.bracketPairs": true,
+  "files.autoSave": "afterDelay",
+
+  "editor.bracketPairColorization.enabled": true,
+  "editor.cursorBlinking": "blink",
+  "editor.fontWeight": "normal",
+  "editor.fontLigatures": true,
+  "editor.accessibilitySupport": "off",
+  "redhat.telemetry.enabled": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "diffEditor.ignoreTrimWhitespace": false
 }
