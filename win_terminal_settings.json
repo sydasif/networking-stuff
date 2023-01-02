@@ -1,0 +1,105 @@
+{
+    "$help": "https://aka.ms/terminal-documentation",
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "actions": 
+    [
+        {
+            "command": 
+            {
+                "action": "copy",
+                "singleLine": false
+            },
+            "keys": "ctrl+c"
+        },
+        {
+            "command": "paste",
+            "keys": "ctrl+v"
+        },
+        {
+            "command": "find",
+            "keys": "ctrl+shift+f"
+        },
+        {
+            "command": 
+            {
+                "action": "splitPane",
+                "split": "auto",
+                "splitMode": "duplicate"
+            },
+            "keys": "alt+shift+d"
+        }
+    ],
+    "confirmCloseAllTabs": false,
+    "copyFormatting": "none",
+    "copyOnSelect": true,
+    "defaultProfile": "GitBash",
+    "initialCols": 110,
+    "profiles": 
+    {
+        "defaults": {},
+        "list": 
+        [
+            {
+                "colorScheme": "Campbell Powershell",
+                "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+                "font": 
+                {
+                    "face": "MesloLGS NF",
+                    "size": 12
+                },
+                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                "hidden": false,
+                "name": "Windows PowerShell"
+            },
+            {
+                "commandline": "%SystemRoot%\\System32\\cmd.exe",
+                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+                "hidden": false,
+                "name": "Command Prompt"
+            },
+            {
+                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+                "hidden": false,
+                "name": "Azure Cloud Shell",
+                "source": "Windows.Terminal.Azure"
+            },
+            {
+                "colorScheme": "Ubuntu-22.04-ColorScheme",
+                "commandline": "ubuntu2204.exe",
+                "cursorShape": "underscore",
+                "font": 
+                {
+                    "face": "MesloLGS NF",
+                    "size": 12
+                },
+                "guid": "{cbce3841-9210-43bc-b482-a6e1f27c35f1}",
+                "hidden": false,
+                "icon": "https://assets.ubuntu.com/v1/49a1a858-favicon-32x32.png",
+                "name": "Ubuntu 22.04.1 LTS "
+            },
+            {
+                "colorScheme": "Ubuntu-22.04-ColorScheme",
+                "commandline": "C:\\Program Files\\Git\\bin\\bash.exe",
+                "cursorShape": "underscore",
+                "font": 
+                {
+                    "face": "MesloLGS NF",
+                    "size": 12
+                },
+                "guid": "{5b83e123-0228-4c6f-99bf-39971b3b8650}",
+                "hidden": false,
+                "icon": "C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico",
+                "name": "GitBash",
+                "startingDirectory": "e:\\Desktop",
+                "tabTitle": "GitBash"
+            },
+            {
+                "commandline": "c:\\Python3.10\\python.exe",
+                "guid": "{5a515080-2f71-46ee-82a8-12e58c384ff3}",
+                "name": "Python"
+            }
+        ]
+    },
+    "showTerminalTitleInTitlebar": false,
+    "theme": "system"
+}
