@@ -1,0 +1,86 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "python.formatting.provider": "black",
+    "python.languageServer": "Pylance",
+    "notebook.lineNumbers": "on",
+    "explorer.confirmDelete": false,
+    "redhat.telemetry.enabled": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "terminal.integrated.fontFamily": "MesloLGS NF, Consolas, 'Courier New'",
+    "terminal.integrated.fontSize": 14,
+    "editor.wordWrap": "on",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "workbench.editor.untitled.hint": "hidden",
+    "security.workspace.trust.untrustedFiles": "open",
+    
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "/usr/bin/bash",
+            "icon": "terminal-bash"
+        },
+        "zsh": {
+            "path": "/usr/bin/zsh",
+            "icon": "terminal-powershell"
+        },
+        "fish": {
+            "path": "fish"
+        },
+        "tmux": {
+            "path": "tmux",
+            "icon": "terminal-tmux"
+        },
+        "pwsh": {
+            "path": "pwsh",
+            "icon": "terminal-powershell"
+        }
+    },
+
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "editor.fontFamily": "'Droid Sans Mono',  'MesloLGS NF' ",
+    "debug.terminal.clearBeforeReusing": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "underline",
+    "workbench.colorTheme": "Monokai Pro",
+    "editor.cursorWidth": 2,
+    "files.autoGuessEncoding": true,
+    // Workbench Colors Customization
+    "workbench.colorCustomizations": {
+        "[Monokai Pro]": {
+    // Status Bar Colors — The Status Bar is shown in the bottom of the workbench.
+    "statusBar.background": "#4c0568bb",
+    "statusBar.foreground": "#6dc20d",
+    "statusBar.border": "#ac0d9188",
+    // Activity Bar — The Activity Bar is displayed either on the far left or right of the workbench.
+    "activityBar.background": "#4c0568bb",
+    "activityBar.foreground": "#6dc20d",
+    "activityBar.border": "#ac0d9188",
+    // Side Bar — The Side Bar contains views like the Explorer and Search.
+    "sideBar.background": "#29022ea6",
+    "sideBar.foreground": "#8283ad",
+    "sideBar.border": "#238292",
+        }
+    },
+    // Editor Color Customization
+        "editor.tokenColorCustomizations": {
+        // Comments Color in editor
+        "comments": "#b83f45",
+    },
+
+    "workbench.editor.autoLockGroups": {
+        "vscode.markdown.preview.editor": true,
+        "mainThreadWebview-markdown.preview": true
+    },
+
+    "scm.defaultViewMode": "tree",
+    "extensions.autoUpdate": "onlyEnabledExtensions",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "git.confirmSync": false
+}
