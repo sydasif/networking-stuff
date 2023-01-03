@@ -1,4 +1,4 @@
-" VIM SETTING
+" VIM SETTING FOR UBUNTU
 
 syntax on             " Enable syntax highlighting
 set number            " Enable line numbers

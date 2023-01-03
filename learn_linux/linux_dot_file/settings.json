@@ -1,4 +1,4 @@
-{
+{   // Setting for Ubuntu
     "workbench.startupEditor": "newUntitledFile",
     "python.defaultInterpreterPath": "/usr/bin/python3",
     "python.formatting.provider": "black",
