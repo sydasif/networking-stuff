@@ -1,3 +1,5 @@
+Windows 10 Terminal shortcut keys
+
 New tab: ctrl + shift + t
 Close tab: ctrl + shift + w
 Navigate tab: ctrl + tab
@@ -7,12 +9,10 @@ Copy text: ctrl + shif+ c
 Paste text: ctrl + shift + v or ctrl + v
 Command palette: ctrl + shift + P
 
-Ctrl + Minus or Ctrl + Plus will decrease or increase the font size, respectively.
-To search the output of any shell, press Ctrl + Shift + F to open the search bar.
-
-Holding Alt while clicking the plus button will open the default shell in a new pane.
-
-Holding Alt while selecting a shell from the new shell dropdown menu will open
+- Ctrl + Minus or Ctrl + Plus will decrease or increase the font size, respectively.
+- To search the output of any shell, press Ctrl + Shift + F to open the search bar.
+- Holding Alt while clicking the plus button will open the default shell in a new pane.
+- Holding Alt while selecting a shell from the new shell dropdown menu will open
 that shell in a new pane.
 
 
