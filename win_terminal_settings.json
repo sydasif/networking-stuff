@@ -32,7 +32,7 @@
     "confirmCloseAllTabs": false,
     "copyFormatting": "none",
     "copyOnSelect": true,
-    "defaultProfile": "GitBash",
+    "defaultProfile": "Git Bash",
     "initialCols": 110,
     "profiles": 
     {
@@ -53,6 +53,11 @@
             },
             {
                 "commandline": "%SystemRoot%\\System32\\cmd.exe",
+                "font": 
+                {
+                    "face": "MesloLGS NF",
+                    "size": 12
+                },
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": false,
                 "name": "Command Prompt"
@@ -78,7 +83,7 @@
                 "name": "Ubuntu 22.04.1 LTS "
             },
             {
-                "colorScheme": "Ubuntu-22.04-ColorScheme",
+                "colorScheme": "Solarized Dark",
                 "commandline": "C:\\Program Files\\Git\\bin\\bash.exe",
                 "cursorShape": "underscore",
                 "font": 
@@ -89,14 +94,9 @@
                 "guid": "{5b83e123-0228-4c6f-99bf-39971b3b8650}",
                 "hidden": false,
                 "icon": "C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico",
-                "name": "GitBash",
+                "name": "Git Bash",
                 "startingDirectory": "e:\\Desktop",
-                "tabTitle": "GitBash"
-            },
-            {
-                "commandline": "c:\\Python3.10\\python.exe",
-                "guid": "{5a515080-2f71-46ee-82a8-12e58c384ff3}",
-                "name": "Python"
+                "tabTitle": "Git"
             }
         ]
     },
