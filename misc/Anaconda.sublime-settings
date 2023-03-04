@@ -1,0 +1,17 @@
+{
+    "auto_formatting": true,
+    "autoformat_ignore":
+    [
+    ],
+    "pep8_ignore":
+    [
+        "E501,C0301,W0142,W0402,R0201,E1101,E1102,C0103,R0901,R0903,R0904,C1001,W0223,W0232,W0201,E1103,R0801,C0111",
+    ],
+    "anaconda_linter_underlines": false,
+    "anaconda_linter_mark_style": "none",
+    "display_signatures": false,
+    "disable_anaconda_completion": true,
+    "anaconda_linter_phantoms": true,
+    "anaconda_linting": false,
+    "python_interpreter": "/usr/bin/python3"
+}

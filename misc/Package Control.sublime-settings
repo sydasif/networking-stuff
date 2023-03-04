@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"0x0",
+		"Anaconda",
+		"BracketHighlighter",
+		"FileIcons",
+		"Material Theme",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
+	],
+}
