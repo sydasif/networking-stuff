@@ -1,0 +1,25 @@
+enable
+!
+config terminal
+!
+hostname xyz
+!
+ip domain-name tech.com
+!
+crypto key generate rsa modulus 2048
+!
+username admin pri 15 secret cisco
+!
+line vty 0 4
+ transport input ssh
+ login local
+!
+interface vlan 1
+ no shutdown
+ ip address x.x.x.x
+!
+exit
+!
+end
+!
+wr

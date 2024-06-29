@@ -1,8 +1,0 @@
-Git Bash Path
-
-eval "$(oh-my-posh init bash --config 'C:\Users\Syed Asif\AppData\Local\Programs\oh-my-posh\themes\quick-term.omp.json')"
-
-
-Window Terminal Path
-
-eval "$(oh-my-posh init bash --config 'C:\Users\Syed Asif\AppData\Local\Programs\oh-my-posh\themes\craver.omp.json')"

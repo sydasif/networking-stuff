@@ -6,7 +6,7 @@ $ git config --global core.editor "vim"
 
 $ git config --list    # To see Git settings
 
-# Git Commands
+## Git Commands
 
 $ git init             # Initialize a new git database
 $ git clone            # Copy an existing database
@@ -29,7 +29,7 @@ $ git log --reverse    # Reverse the order of commits
 $ git log -n <number>  # limit the numbers of commits (git log -n 5)
 $ git diff --staged    # Review the changes made to staged files
 
-# Push an existing repository from the command line
+## Push an existing repository from the command line
 
 git remote add origin <URL>
 git branch -M master

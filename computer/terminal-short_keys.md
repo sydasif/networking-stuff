@@ -1,13 +1,13 @@
-Windows 10 Terminal shortcut keys
+# Windows 10 Terminal shortcut keys
 
-New tab: ctrl + shift + t
-Close tab: ctrl + shift + w
-Navigate tab: ctrl + tab
-Navigate back: ctrl +shift + tab
-Duplicate tab: Alt + shift + D
-Copy text: ctrl + shif+ c
-Paste text: ctrl + shift + v or ctrl + v
-Command palette: ctrl + shift + P
+1. New tab: ctrl + shift + t
+2. Close tab: ctrl + shift + w
+3. Navigate tab: ctrl + tab
+4. Navigate back: ctrl +shift + tab
+5. Duplicate tab: Alt + shift + D
+6. Copy text: ctrl + shif+ c
+7. Paste text: ctrl + shift + v or ctrl + v
+8. Command palette: ctrl + shift + P
 
 - Ctrl + Minus or Ctrl + Plus will decrease or increase the font size, respectively.
 - To search the output of any shell, press Ctrl + Shift + F to open the search bar.
