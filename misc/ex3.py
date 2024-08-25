@@ -3,7 +3,7 @@ import time
 
 # Sets up the ssh session and log in as "admin" with password "cisco" to host '192.168.100.22' .
 # Also added "look_for_keys=False" and "allow_agent=False".
-# Sends the 'enable' command to enter privilidged mode.
+# Sends the 'enable' command to enter privileged mode.
 # Note the '\n' after the command, this is equivalent to pressing "Enter".
 # Also note that '\n' is there at the end, you should realize we need this after every command.
 
